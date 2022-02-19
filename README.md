@@ -23,8 +23,8 @@ Unit05
 > SVM實戰.ipynb
 
 Unit06
-> > 1.3_ConfusionMatrix_實戰.ipynb
-> > 
-> > 2.3_Ensemble實戰.ipynb
-> > 
-> > Kaggle.png
+> 1.3_ConfusionMatrix_實戰.ipynb
+> 
+> 2.3_Ensemble實戰.ipynb
+> 
+> Kaggle.png
