@@ -2,7 +2,7 @@
 This is NTUTRAIN IMLP course.
 
 Unit01
-> 0Unit01_Crash Course on Python.ipynb
+> Unit01_Crash Course on Python.ipynb
 
 Unit02
 > Unit02
